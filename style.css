@@ -32,14 +32,14 @@ a:hover {
 html,
 body {
 /*css for full size background image*/
-  background: url(http://p1.pichost.me/i/66/1910819.jpg) no-repeat center center fixed; 
+  background: url(https://i.guim.co.uk/img/media/f41c0dea5cf055d605ccf3d2476967be8b422aaa/0_0_4912_2947/master/4912.jpg?w=1920&q=55&auto=format&usm=12&fit=max&s=ae79968fa0eb61edae7274d6d2089472) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   
   height: 100%;
-  background-color: #060;
+  background-color: black;
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
